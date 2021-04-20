@@ -1,0 +1,8 @@
+---
+- name: hw!
+  hosts: all
+ 
+  tasks:
+ 
+  - name: hw!
+    shell: echo "And so it begins"
